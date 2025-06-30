@@ -6,7 +6,7 @@
 ## 👨‍💻 **About Me**
 
 I’m a tech-savvy software developer with a strong background in mobile development, passionate about using technology to solve real-world challenges.  
-I specialize in building and deploying Android applications—from concept to production—and have successfully published apps on the Google Play Store.
+I specialize in building and deploying Android applications from concept 🤔 to production📲 and have successfully published apps on the Google Play Store.
 
 With experience in problem-solving, user-focused design, and cross-functional collaboration, I bring ideas to life through clean code and scalable solutions.  
 I enjoy creating tools that enhance productivity, promote transparency, and empower communities.
@@ -43,10 +43,10 @@ App publishing, UI/UX design, bug tracking, real-time feedback integration
 
 ## 🌟 **Highlights**
 
-- 🎯 Published and maintained production-grade apps on Google Play Store  
+- 🎯 Published and maintaines production-grade apps on Google Play Store  
 - 🛠️ Built solutions addressing education, climate, and civic tech challenges  
 - 🧠 Experienced in identifying, reproducing, and resolving app-level issues  
-- 🤝 Collaborated in multi-disciplinary teams (devs, analysts, researchers)
+- 🤝 Collaborates in multi-disciplinary teams (devs, analysts, researchers)
 
 ---
 
