@@ -134,11 +134,13 @@ A comprehensive trading automation platform that:
 
 ## 📫 Let’s Connect
 
-📧 Email: josephekisaopurongo@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/ekisa-joseph-opurongo  
-🗂️ GitHub: https://github.com/Ekisa02  
-
----
+📧 Email: [josephekisaopurongo@gmail.com](mailto:josephekisaopurongo@gmail.com)  
+💼 LinkedIn: [Joseph Ekisa](https://www.linkedin.com/in/ekisa-joseph-opurongo)  
+🗂️ GitHub: [Ekisa02](https://github.com/Ekisa02)  
+💬 WhatsApp: [+254741187375](https://wa.me/254741187375)  
+🐦 Twitter: [@YourTwitterHandle](https://twitter.com/ekisa-joseph-opurongo)  
+📸 Instagram: [@dev_ekisa](https://instagram.com/Joseph_opurongo)  
+💻 Portfolio: [Portfolio Link](https://ekisa-joseph-opurongo.vercel.app/))  
 
 > _“Technology should not just function — it should create impact.”_
 
