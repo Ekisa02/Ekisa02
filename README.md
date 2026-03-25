@@ -1,64 +1,146 @@
 # 👋 Hi there, I'm Ekisa Joseph  
-🚀 **Software Developer** | 📱 **Android Engineer** | 💡 **Tech for Impact Advocate**
+🚀 **Software Engineer** | 📱 **Android & Cloud Developer** | 🌍 **Tech for Impact Builder**
 
 ---
 
-## 👨‍💻 **About Me**
+## 👨‍💻 About Me
 
-I’m a tech-savvy software developer with a strong background in mobile development, passionate about using technology to solve real-world challenges.  
-I specialize in building and deploying Android applications from concept 🤔 to production📲 and have successfully published apps on the Google Play Store.
+I design and engineer scalable, intelligent software systems that blend mobile-first architectures, cloud-native services, and AI-driven insights to solve real-world problems.
 
-With experience in problem-solving, user-focused design, and cross-functional collaboration, I bring ideas to life through clean code and scalable solutions.  
-I enjoy creating tools that enhance productivity, promote transparency, and empower communities.
+My expertise lies in taking ideas from concept → architecture → production, building solutions that are reliable, performant, and human-centric. I focus on creating experiences where technology anticipates user needs, augments decision-making, and drives measurable impact.
 
----
+I’m passionate about applying technology to:
 
-## 🛠️ **Tech Stack & Tools**
+🌱 Climate & Agriculture – AI-powered tools for sustainable farming and environmental management
+📊 Data-driven systems – leveraging machine learning and analytics to transform data into actionable insights
+🏛️ Civic & community technology – empowering people with intelligent, accessible, and transparent platforms
 
-**Languages:**  
-Java, Kotlin, JavaScript, TypeScript, Python  
-
-**Mobile Frameworks:**  
-Android SDK, React Native (Expo)  
-
-**Backend & Cloud:**  
-Firebase, Google Cloud, Node.js  
-
-**Tools:**  
-Git, Kali Linux, VS Code, OBS Studio, Figma, Tailwind CSS  
-
-**Other Skills:**  
-App publishing, UI/UX design, bug tracking, real-time feedback integration
+I don’t just code — I build systems that think, learn, and serve people effectivel **systems that people depend on**.
 
 ---
 
-## 📌 **Current Projects**
+## ⚙️ Tech Stack & Expertise
 
-- 🍲 **K Recipe Project** – A recipe-sharing platform preserving and promoting Kenyan cuisine through technology  
-- 🌳 **MTi-Carbo App** – Mobile app for tree carbon estimation and valuation  
-- 📸 **JusticeNet** – A mobile reporting platform for environmental violations  
-- 🤝 **SkillSwap** – A student skill exchange app (collaboration platform)
+### 🧠 Languages
+`Java` `Kotlin` `JavaScript` `TypeScript` `Python`
+
+### 📱 Mobile Development
+- Android SDK (Jetpack, MVVM, LiveData, Room)
+- Kotlin Coroutines & Flow
+- React Native (Expo)
+- REST API integration & offline-first architecture
+
+### 🌐 Backend & Cloud
+- Firebase (Auth, Firestore, Functions, FCM)
+- Node.js (Express)
+- Spring Boot (Microservices & APIs)
+- MongoDB, PostgreSQL (Neon)
+- Appwrite
+- Google Cloud & AWS basics
+
+### ⚡ DevOps & Deployment
+- Git & GitHub Actions
+- CI/CD workflows
+- Vercel & cloud deployments
+- Play Store publishing & app lifecycle management
+
+### 🤖 AI, Automation & Data
+- n8n & Make.com (workflow automation)
+- Google Colab & Kaggle (data experiments)
+- IBM Cloud integrations
+
+### 🎨 UI/UX & Product Thinking
+- Figma (Design systems & prototyping)
+- Tailwind CSS
+- User-centered design & usability testing
+
+### 🔐 Security & Systems Awareness
+- Secure API handling
+- Authentication flows (JWT, OAuth)
+- Basic penetration testing (Kali Linux environment)
 
 ---
 
-## 🌟 **Highlights**
+## 🚀 Current Projects
 
-- 🎯 Published and maintaines production-grade apps on Google Play Store  
-- 🛠️ Built solutions addressing education, climate, and civic tech challenges  
-- 🧠 Experienced in identifying, reproducing, and resolving app-level issues  
-- 🤝 Collaborates in multi-disciplinary teams (devs, analysts, researchers)
+### 🌾 AgroShield360 *(Flagship Project)*
+A smart agriculture platform focused on:
+- Crop monitoring & advisory systems  
+- Farmer support tools powered by data  
+- Scalable backend for agricultural insights  
+
+> Bridging technology and agriculture to improve productivity and resilience.
+
+---
+
+
+### 🌳 MTi-Carbo App  
+A climate-tech mobile solution for:
+- Tree carbon estimation 🌱  
+- Environmental valuation models  
+- Data-backed sustainability insights  
+
+---
+### 🤖 ExpenseFlow-Agent *(AutoExpenseFlow)*
+An AI-powered enterprise solution built with **IBM watsonx** that:
+- Automates corporate expense processing  
+- Uses document intelligence for receipt analysis  
+- Enforces company policies automatically  
+- Integrates with ERP systems for seamless workflows  
+
+> Reducing manual overhead and improving financial transparency.
 
 ---
 
-## 📫 **Let’s Connect**
+### 📈 QXBoost  
+A fully automated, no-code loyalty engine for **Qubic Exchange (QX)**:
+- Identifies high-value investors ("Whales") in real-time  
+- Tracks holding behavior and engagement  
+- Incentivizes long-term investment strategies  
 
-**📧 Email:** josephekisaopurongo@gmail.com  
-**💼 LinkedIn:** [Joseph Ekisa](https://www.linkedin.com/in/joseph-ekisa)  
-**🗂️ GitHub Portfolio:** [github.com/Ekisa02](https://github.com/Ekisa02)
-
-> _“I believe technology should not just work — it should matter.”_
+> Turning user behavior into intelligent reward systems.
 
 ---
+
+### 🤖 Auto-Trader  
+A comprehensive trading automation platform that:
+- Executes trades automatically based on strategies  
+- Provides analytics and optimization tools  
+- Simplifies complex trading workflows  
+
+> Empowering smarter and faster decision-making in trading environments.
+
+---
+
+
+## 🏆 Key Highlights
+
+- 📲 Built and deployed **production-grade Android apps**
+- ⚙️ Strong experience in **end-to-end system development**
+- 🧩 Skilled at breaking down complex problems into scalable solutions
+- 🌍 Focused on **impact-driven technology (AgriTech, ClimateTech, CivicTech)**
+- 🤝 Proven ability to work across **technical and non-technical teams**
+
+---
+
+## 📌 What Sets Me Apart
+
+- I think in **systems, not just features**
+- I prioritize **real users and real problems**
+- I combine **engineering + product thinking**
+- I build with **scalability and sustainability in mind**
+
+---
+
+## 📫 Let’s Connect
+
+📧 Email: josephekisaopurongo@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/joseph-ekisa  
+🗂️ GitHub: https://github.com/Ekisa02  
+
+---
+
+> _“Technology should not just function — it should create impact.”_
 
 ## 🚀 **Tech Logos**
 
