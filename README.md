@@ -135,7 +135,7 @@ A comprehensive trading automation platform that:
 ## 📫 Let’s Connect
 
 📧 Email: josephekisaopurongo@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/joseph-ekisa  
+💼 LinkedIn: https://www.linkedin.com/in/ekisa-joseph-opurongo  
 🗂️ GitHub: https://github.com/Ekisa02  
 
 ---
