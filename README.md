@@ -138,7 +138,7 @@ A comprehensive trading automation platform that:
 💼 LinkedIn: [Joseph Ekisa](https://www.linkedin.com/in/ekisa-joseph-opurongo)  
 🗂️ GitHub: [Ekisa02](https://github.com/Ekisa02)  
 💬 WhatsApp: [+254741187375](https://wa.me/254741187375)  
-🐦 Twitter: [@YourTwitterHandle](https://twitter.com/ekisa-joseph-opurongo)  
+🐦 Twitter: [@Ekisa-joseph-opurongo](x.com/JOSE23943856188)  
 📸 Instagram: [@dev_ekisa](https://instagram.com/Joseph_opurongo)  
 💻 Portfolio: [Portfolio Link](https://ekisa-joseph-opurongo.vercel.app/))  
 
